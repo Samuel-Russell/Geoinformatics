@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Reading Data
+# Data Source: https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
 df = pd.read_csv('weather_data_GER_2016.csv') 
 
 # Creating Variables
