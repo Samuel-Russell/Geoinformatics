@@ -1,3 +1,3 @@
-# Geoinformatics
+# Time-Series-Analyssi
 
-A collection of useful scripts for geoinformatics processes.
+A collection of useful scripts for time-series analysis.
