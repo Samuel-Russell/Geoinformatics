@@ -2,6 +2,10 @@
 
 A collection of useful scripts for time-series analysis.
 
+## Examples of use
+Timeseries_CSV_Read Output:
+![](Images/Timeseries_CSV_Read_Plot.png)
+
 ## License
 MIT License
 
